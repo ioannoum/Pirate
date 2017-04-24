@@ -1,4 +1,4 @@
-
+echo "polly wants a cracker"
 print("Arr, Matey")
 for i in range(100):
 	print str(i) + " bottles of rum"
